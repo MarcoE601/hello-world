@@ -1,3 +1,3 @@
 # hello-world
 another repository 
-student 
+I'm a student, this is for robotics class
